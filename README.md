@@ -1,4 +1,4 @@
-# java-keystore-processor
+# JKS Modifier
 
 Command base Java Keystore(JKS) modifier. It imports key pairs to specified java keystore.
 
